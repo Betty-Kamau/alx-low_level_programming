@@ -3,9 +3,8 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *The program will decide whether a random number is positive, negative or zero 
+ *The program decides whether a random number is positive, negative or zero 
  *Return: Always 0 (Success)
- *
  */
 
 /* betty style doc for function main goes there */
