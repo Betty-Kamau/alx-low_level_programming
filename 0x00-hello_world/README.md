@@ -21,4 +21,10 @@ Your program should end with the value 0
 
 Use the function puts
 You are not allowed to use printf
-Your program should end with the value 0 	
+Your program should end with the value 0
+7. The file 6-size.c has a script that writes Write a C program that prints the size of various types on the computer it is compiled and run on.
+
+You should produce the exact same output as in the example
+Warnings are allowed
+Your program should return 0
+You might have to install the package libc6-dev-i386 on your Linux (Vagrant) to test the -m32 gcc option 	
