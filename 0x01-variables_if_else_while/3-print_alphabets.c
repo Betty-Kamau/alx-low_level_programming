@@ -1,7 +1,7 @@
-include <stdio.h>
+#include <stdio.h>
 /**
  *  * main - Entry point
- *   *The function prints all lowercase numbers
+ *   *The function prints all lowercase and uppercase numbers
  *    * Return: Always 0 (Success)
  *     */
 int main(void)
