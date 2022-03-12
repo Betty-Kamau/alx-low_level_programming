@@ -5,4 +5,4 @@
 4. The file 4-print_alphabt.c prints the alphabet in lowercase except e and q, followed by a new line
 5. The file 6-print_numberz.c ha a script that prints all single digit numbers of base 10 starting from 0, followed by a new line
 6. The file 7-print_tebahpla.c has a program that prints the lowercase alphabet in reverse, followed by a new line
-
+7. The file 8-print_base16.c has a program that prints all the numbers of base 16 in lowercase, followed by a new line
