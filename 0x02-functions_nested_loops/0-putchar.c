@@ -8,13 +8,14 @@
 
 int main(void)
 {
-	int i = 0;
-	char p[] = '_putchar';
-
-	while <= 7;
-	{
-		putchar(p[i]);
-	}
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
 	putchar('\n');
 	return (0);
 }
