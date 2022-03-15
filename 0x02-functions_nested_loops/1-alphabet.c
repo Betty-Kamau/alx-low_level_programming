@@ -1,22 +1,17 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
- * main - Entry point
- * print_alphabet_x10 -prints out alphabet 10 times
+ * print_alphabet -prints out alphabet
  *
- * Return: always 0
+ * Return: void
  */
-void print_alphabet_x10(void)
+
+void print_alphabet(void)
 
 {
-	char m;
-	int x;
-	for (x = 0; x < 10; x++)
-	{
-		for (m = 'a'; m <= 'z'; m++)
-			_putchar(m);
+char x;
+for (x = 'a'; x <= 'z'; x++)
+_putchar(x);
 
-		_putchar('\n');
-	}
+_putchar('\n');
 }
