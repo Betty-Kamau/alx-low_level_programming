@@ -9,10 +9,12 @@
 void print_line(int n)
 {
 	int i;
-	char c, line;
+	char c, line, ln, lnn;
 
 	c = '_';
 	line = '\n';
+	ln = 92;
+	lnn = 'n';
 
 	for (i = 0; i <= n; i++)
 	{
@@ -20,9 +22,15 @@ void print_line(int n)
 		{
 			_putchar(c);
 		}
+		else if (n < 0)
+		{
+			_putchar(ln);
+			_putchar(lnn);
+		}
 		else
 		{
-			_putchar(line);
+			_putchar(ln);
+			_putchar(lnn);
 		}
 	}
 	_putchar(line);
