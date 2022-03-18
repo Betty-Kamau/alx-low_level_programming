@@ -10,6 +10,7 @@ void print_line(int n)
 {
 	int i;
 	char c, line;
+
 	c = '_';
 	line = '\n';
 
